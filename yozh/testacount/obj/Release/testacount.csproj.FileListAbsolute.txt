@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\bin\Release\testacount.dll
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\bin\Release\testacount.pdb
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\bin\Release\yozh.exe
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\bin\Release\yozh.pdb
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\obj\Release\testacount.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\obj\Release\testacount.dll
+C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\testyozh\yozhik\yozh\testacount\obj\Release\testacount.pdb
